@@ -1,0 +1,6 @@
+input{
+	border-radius: 30px;
+	minlength="4" 
+	maxlength="8" 
+	size="30"
+}
